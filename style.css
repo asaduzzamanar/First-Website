@@ -1,8 +1,15 @@
-*{
-    margin: 0px;
-    padding: 0px;
-}
-body{
+  body{
     font-family: 'Oswald', sans-serif;
-    background: greenyellow;
+}
+.name-hightlight{
+    color: hotpink;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
 }
