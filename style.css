@@ -21,3 +21,11 @@
 section{
     height: 500px;
 }
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon, orange );
+    border-radius: 5px;
+    padding: 5px 25px;
+    color: white;
+    font-weight: 700;
+}
