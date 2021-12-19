@@ -51,7 +51,6 @@ section{
     background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
-    float: left;
 }
 .singie-experience{
     box-shadow: 10px 10px 40px green;
@@ -68,14 +67,6 @@ section{
     border-image: linear-gradient(orange, green);
     border-image-slice: 1;
 }
-.exp-style{
-    float: left;
-}
-footer{
-    float: left;
-    width: 100%;
-}
 footer p{
     text-align: center;
-    
 }
